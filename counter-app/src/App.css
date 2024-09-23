@@ -1,0 +1,38 @@
+.CounterApp {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: rgb(63, 182, 182);
+}
+
+
+h2 {
+  font-size: 3rem;
+  color: rgb(231, 71, 13);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+}
+
+.increment {
+  background-color: rgb(167, 230, 74);
+  font-size: 1.5rem;
+}
+
+.decrement {
+  background-color: rgb(226, 15, 15);
+  color: rgb(242, 238, 232);
+  font-size: 1.5rem;
+}
+
+.reset {
+  background-color: rgb(230, 216, 157);
+  font-size: 1.5rem;
+}
+
+
